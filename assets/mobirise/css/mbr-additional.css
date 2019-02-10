@@ -1383,7 +1383,7 @@ body {
 }
 .cid-rhDW3Pl9QT {
   padding-top: 90px;
-  padding-bottom: 90px;
+  padding-bottom: 30px;
   background-image: url("../../../assets/images/background4.jpg");
 }
 .cid-rhDW3Pl9QT .media-container-row {
@@ -1410,6 +1410,9 @@ body {
 .cid-rhDW3Pl9QT .mbr-text,
 .cid-rhDW3Pl9QT .mbr-section-btn {
   text-align: left;
+}
+.cid-rhDW3Pl9QT H1 {
+  text-align: center;
 }
 .cid-rhE3uAQxoO {
   padding-top: 15px;
